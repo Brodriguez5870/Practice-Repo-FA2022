@@ -4,7 +4,7 @@
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course
+- Course: Capstone 2
 
 - Course 2
 
